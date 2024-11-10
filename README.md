@@ -7,14 +7,17 @@ The PhoneBook API is a backend application for managing a simple phone book data
 ## Getting Started
 
 1. **Clone the Repository**:
-   ```bash
-       Install Dependencies: Make sure you have Composer installed, then run:
+
    
+   ```bash
+       
       git clone https://github.com/bornamashayekh/phoneBook.git
-      composer install
       cd phoneBook
+      
+     
 
-
+2. Install Dependencies: Make sure you have Composer installed, then run:
+ ``` composer install  ```
 
 
 Set Up the Database: (Database details will be added to the repository soon.)
